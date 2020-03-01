@@ -53,3 +53,23 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+
+.container{
+    margin-bottom: 100px;
+}
+.bg-color{
+    background-color: rgb(31, 214, 214);
+	border-radius: 10px;
+}
+.align-items-center{
+	text-align: center;
+		-webkit-box-align: center !important;
+		align-items: center;
+}
+	
+#contact{
+		height: 200px;
+}
+#contact h6{
+		color: grey;
+}
